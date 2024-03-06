@@ -3,6 +3,8 @@
 ## Overview
 This project aims to develop a fraud detection system using machine learning techniques. The system will analyze various data points and identify potential fraudulent activities.
 
+This challenge is from `https://zindi.africa/competitions/xente-fraud-detection-challenge/data`
+
 ## Features
 - Data preprocessing: Clean and transform raw data into a suitable format for analysis.
 - Feature engineering: Extract relevant features from the data to improve model performance.
